@@ -13,3 +13,4 @@ This  code parse file with requested drug names, sort them by frequency, and gro
 
 
  The output consists of 2 files: res.docx - that contain detailed information about all requests, and res_short.docx - contains only names, and number of requests 
+ In the case the drug title is divided with '/' (гидазепам/гидозепам/гідазепам), it means that those drugs were grouped together (because of misspelling or using different languages) 
