@@ -7,3 +7,9 @@ This  code parse file with requested drug names, sort them by frequency, and gro
 ## Before you start
 - pip install argparse
 - pip install python-docx
+
+## How to use
+- python parse.py --source_path ./ліки.docx --target_path ./res.docx
+
+
+ The output consists of 2 files: res.docx - that contain detailed information about all requests, and res_short.docx - contains only names, and number of requests 
