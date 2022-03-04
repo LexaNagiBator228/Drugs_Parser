@@ -1,2 +1,2 @@
-# Drugs_Parser
-Drugs Parser
+# Drugs Parser
+Drugs Parser for .docx files
